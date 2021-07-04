@@ -53,12 +53,6 @@
       "name": "Lernantino",
       "age": 19,
       "favoriteAnimal": "Business Cat"
-    },
-    {
-      "name": "beth",
-      "age": 33,
-      "favoriteAnimal": "cat",
-      "id": "9"
     }
   ]
 }
